@@ -1,0 +1,1 @@
+int motor_ramp_main(int argc, char *argv[]);

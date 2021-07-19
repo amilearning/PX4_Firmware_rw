@@ -1,0 +1,1 @@
+{ "ekf2", SCHED_PRIORITY_DEFAULT, 2500, ekf2_main },

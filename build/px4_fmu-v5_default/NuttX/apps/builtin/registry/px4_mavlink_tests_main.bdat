@@ -1,0 +1,1 @@
+{ "mavlink_tests", SCHED_PRIORITY_DEFAULT, 5000, mavlink_tests_main },

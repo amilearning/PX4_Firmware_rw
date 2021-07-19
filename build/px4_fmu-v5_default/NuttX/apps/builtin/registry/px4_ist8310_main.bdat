@@ -1,0 +1,1 @@
+{ "ist8310", SCHED_PRIORITY_DEFAULT, 1500, ist8310_main },

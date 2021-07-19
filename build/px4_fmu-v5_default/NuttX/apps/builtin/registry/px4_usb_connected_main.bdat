@@ -1,0 +1,1 @@
+{ "usb_connected", SCHED_PRIORITY_DEFAULT, 1024, usb_connected_main },

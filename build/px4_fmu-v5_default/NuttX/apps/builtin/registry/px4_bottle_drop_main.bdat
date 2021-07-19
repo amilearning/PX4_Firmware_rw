@@ -1,0 +1,1 @@
+{ "bottle_drop", SCHED_PRIORITY_DEFAULT, 1200, bottle_drop_main },

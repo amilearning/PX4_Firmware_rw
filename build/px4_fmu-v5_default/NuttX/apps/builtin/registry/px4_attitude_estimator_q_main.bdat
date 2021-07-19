@@ -1,0 +1,1 @@
+{ "attitude_estimator_q", SCHED_PRIORITY_DEFAULT, 1200, attitude_estimator_q_main },

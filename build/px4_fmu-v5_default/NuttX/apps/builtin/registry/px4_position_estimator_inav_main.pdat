@@ -1,0 +1,1 @@
+int position_estimator_inav_main(int argc, char *argv[]);

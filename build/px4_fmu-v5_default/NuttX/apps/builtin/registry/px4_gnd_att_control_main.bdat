@@ -1,0 +1,1 @@
+{ "gnd_att_control", SCHED_PRIORITY_DEFAULT, 1200, gnd_att_control_main },

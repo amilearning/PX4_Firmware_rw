@@ -1,0 +1,1 @@
+{ "fw_pos_control_l1", SCHED_PRIORITY_DEFAULT, 1200, fw_pos_control_l1_main },

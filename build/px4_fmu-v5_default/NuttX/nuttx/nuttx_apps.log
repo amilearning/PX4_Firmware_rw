@@ -1,0 +1,41 @@
+CC:  nsh_init.c
+CC:  nsh_parse.c
+CC:  nsh_console.c
+CC:  nsh_script.c
+CC:  nsh_system.c
+CC:  nsh_command.c
+CC:  nsh_fscmds.c
+CC:  nsh_ddcmd.c
+CC:  nsh_proccmds.c
+CC:  nsh_mmcmds.c
+CC:  nsh_timcmds.c
+CC:  nsh_envcmds.c
+CC:  nsh_syscmds.c
+CC:  nsh_dbgcmds.c
+CC:  nsh_session.c
+CC:  nsh_fsutils.c
+CC:  nsh_builtin.c
+CC:  nsh_vars.c
+CC:  nsh_romfsetc.c
+CC:  nsh_mntcmds.c
+CC:  nsh_consolemain.c
+CC:  nsh_test.c
+CC:  nsh_usbconsole.c
+AR:   nsh_init.o nsh_parse.o nsh_console.o nsh_script.o nsh_system.o nsh_command.o nsh_fscmds.o nsh_ddcmd.o nsh_proccmds.o nsh_mmcmds.o nsh_timcmds.o nsh_envcmds.o nsh_syscmds.o nsh_dbgcmds.o nsh_session.o nsh_fsutils.o nsh_builtin.o nsh_vars.o nsh_romfsetc.o nsh_mntcmds.o nsh_consolemain.o nsh_test.o nsh_usbconsole.o  
+CC:  builtin_forindex.c
+CC:  builtin_list.c
+CC:  exec_builtin.c
+AR:   builtin_forindex.o builtin_list.o exec_builtin.o  
+CC:  nsh_main.c
+AR:     nsh_main.o
+CC:  readline.c
+CC:  readline_common.c
+AR:   readline.o readline_common.o  
+CC:  cdcacm_main.c
+AR:     cdcacm_main.o
+CC:  mkfatfs.c
+CC:  configfat.c
+CC:  writefat.c
+AR:   mkfatfs.o configfat.o writefat.o  
+CC:  gnu/gnu_cxxinitialize.c
+AR:   gnu_cxxinitialize.o  

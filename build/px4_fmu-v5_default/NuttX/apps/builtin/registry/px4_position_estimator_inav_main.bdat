@@ -1,0 +1,1 @@
+{ "position_estimator_inav", SCHED_PRIORITY_DEFAULT, 1200, position_estimator_inav_main },

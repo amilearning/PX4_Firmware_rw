@@ -1,0 +1,14 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/platforms/posix/CMakeFiles/sitl_gazebo
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/platforms/posix/CMakeFiles/sitl_gazebo.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/platforms/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule
+/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_sitl_default/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule

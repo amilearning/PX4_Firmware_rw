@@ -1,0 +1,1 @@
+int wind_estimator_main(int argc, char *argv[]);

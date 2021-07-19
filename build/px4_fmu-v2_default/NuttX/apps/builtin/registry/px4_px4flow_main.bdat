@@ -1,0 +1,1 @@
+{ "px4flow", SCHED_PRIORITY_DEFAULT, 1200, px4flow_main },

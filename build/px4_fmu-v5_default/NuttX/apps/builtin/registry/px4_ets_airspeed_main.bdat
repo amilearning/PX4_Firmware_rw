@@ -1,0 +1,1 @@
+{ "ets_airspeed", SCHED_PRIORITY_DEFAULT, 1200, ets_airspeed_main },

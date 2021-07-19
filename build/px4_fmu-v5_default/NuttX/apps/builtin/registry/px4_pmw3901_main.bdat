@@ -1,0 +1,1 @@
+{ "pmw3901", SCHED_PRIORITY_DEFAULT, 1400, pmw3901_main },

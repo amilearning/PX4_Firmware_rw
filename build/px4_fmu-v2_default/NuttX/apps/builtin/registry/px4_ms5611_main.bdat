@@ -1,0 +1,1 @@
+{ "ms5611", SCHED_PRIORITY_DEFAULT, 1500, ms5611_main },

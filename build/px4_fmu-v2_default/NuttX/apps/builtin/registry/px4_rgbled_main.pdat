@@ -1,0 +1,1 @@
+int rgbled_main(int argc, char *argv[]);

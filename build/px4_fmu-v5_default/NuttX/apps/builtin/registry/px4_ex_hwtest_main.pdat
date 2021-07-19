@@ -1,0 +1,1 @@
+int ex_hwtest_main(int argc, char *argv[]);

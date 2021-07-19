@@ -1,0 +1,1 @@
+{ "lps22hb", SCHED_PRIORITY_DEFAULT, 1024, lps22hb_main },

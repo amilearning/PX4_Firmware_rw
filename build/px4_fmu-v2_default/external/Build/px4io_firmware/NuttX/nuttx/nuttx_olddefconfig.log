@@ -1,0 +1,17 @@
+LN: include/arch to arch/arm/include
+LN: include/arch/board to ../nuttx-config/include
+LN: arch/arm/src/board to ../nuttx-config/src
+LN: platform/board to /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/platform/dummy
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/examples
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/gpsutils
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/system
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/netutils
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/interpreters
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/testing
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/graphics/NxWidgets
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/graphics
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/fsutils
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/canutils
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps/wireless
+mkkconfig in /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/NuttX/apps
+DEBUG: kconfiglib kconfig-conf wrapper, arguments: --olddefconfig Kconfig

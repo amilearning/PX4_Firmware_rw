@@ -1,0 +1,1 @@
+{ "tune_control", SCHED_PRIORITY_DEFAULT, 2500, tune_control_main },

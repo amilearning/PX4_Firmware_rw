@@ -1,0 +1,1 @@
+{ "hello", SCHED_PRIORITY_DEFAULT, 1024, hello_main },

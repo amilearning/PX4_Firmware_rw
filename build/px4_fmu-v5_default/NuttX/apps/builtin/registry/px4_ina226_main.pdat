@@ -1,0 +1,1 @@
+int ina226_main(int argc, char *argv[]);

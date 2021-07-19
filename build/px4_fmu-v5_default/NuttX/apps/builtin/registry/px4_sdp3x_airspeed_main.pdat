@@ -1,0 +1,1 @@
+int sdp3x_airspeed_main(int argc, char *argv[]);

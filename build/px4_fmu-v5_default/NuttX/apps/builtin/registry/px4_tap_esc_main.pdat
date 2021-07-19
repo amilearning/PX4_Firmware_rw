@@ -1,0 +1,1 @@
+int tap_esc_main(int argc, char *argv[]);

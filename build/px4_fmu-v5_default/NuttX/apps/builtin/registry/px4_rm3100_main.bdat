@@ -1,0 +1,1 @@
+{ "rm3100", SCHED_PRIORITY_DEFAULT, 1200, rm3100_main },

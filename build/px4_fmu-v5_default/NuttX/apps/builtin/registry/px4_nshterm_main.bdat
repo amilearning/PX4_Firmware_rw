@@ -1,0 +1,1 @@
+{ "nshterm", SCHED_PRIORITY_DEFAULT-30, 1500, nshterm_main },

@@ -1,0 +1,1 @@
+int hardfault_log_main(int argc, char *argv[]);

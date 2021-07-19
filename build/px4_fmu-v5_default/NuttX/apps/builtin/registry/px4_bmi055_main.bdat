@@ -1,0 +1,1 @@
+{ "bmi055", SCHED_PRIORITY_DEFAULT, 1500, bmi055_main },

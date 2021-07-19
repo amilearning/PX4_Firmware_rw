@@ -1,0 +1,1 @@
+int batt_smbus_main(int argc, char *argv[]);

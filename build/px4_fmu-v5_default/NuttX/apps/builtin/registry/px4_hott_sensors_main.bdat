@@ -1,0 +1,1 @@
+{ "hott_sensors", SCHED_PRIORITY_DEFAULT, 1024, hott_sensors_main },

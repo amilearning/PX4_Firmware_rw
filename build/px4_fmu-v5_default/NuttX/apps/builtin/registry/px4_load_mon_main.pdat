@@ -1,0 +1,1 @@
+int load_mon_main(int argc, char *argv[]);

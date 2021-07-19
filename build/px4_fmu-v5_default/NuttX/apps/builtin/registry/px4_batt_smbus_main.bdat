@@ -1,0 +1,1 @@
+{ "batt_smbus", SCHED_PRIORITY_DEFAULT, 1100, batt_smbus_main },

@@ -1,0 +1,1 @@
+{ "ex_hwtest", SCHED_PRIORITY_DEFAULT, 2000, ex_hwtest_main },

@@ -1,0 +1,1 @@
+int ms5525_airspeed_main(int argc, char *argv[]);

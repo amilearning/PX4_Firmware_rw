@@ -1,0 +1,1 @@
+{ "mpu9250", SCHED_PRIORITY_DEFAULT, 1500, mpu9250_main },

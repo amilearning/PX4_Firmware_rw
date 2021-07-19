@@ -1,0 +1,1 @@
+{ "roboclaw", SCHED_PRIORITY_DEFAULT, 1024, roboclaw_main },

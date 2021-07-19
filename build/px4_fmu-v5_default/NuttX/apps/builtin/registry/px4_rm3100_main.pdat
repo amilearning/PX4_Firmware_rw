@@ -1,0 +1,1 @@
+int rm3100_main(int argc, char *argv[]);

@@ -1,0 +1,1 @@
+{ "tone_alarm", SCHED_PRIORITY_DEFAULT, 1024, tone_alarm_main },

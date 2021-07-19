@@ -1,0 +1,1 @@
+{ "rgbled", SCHED_PRIORITY_DEFAULT, 1500, rgbled_main },

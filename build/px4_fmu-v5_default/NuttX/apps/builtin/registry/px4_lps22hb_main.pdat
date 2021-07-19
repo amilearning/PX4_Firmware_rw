@@ -1,0 +1,1 @@
+int lps22hb_main(int argc, char *argv[]);

@@ -1,0 +1,1 @@
+int camera_trigger_main(int argc, char *argv[]);

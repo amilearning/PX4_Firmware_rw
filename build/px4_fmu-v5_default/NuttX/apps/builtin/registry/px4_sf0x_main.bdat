@@ -1,0 +1,1 @@
+{ "sf0x", SCHED_PRIORITY_DEFAULT, 1024, sf0x_main },

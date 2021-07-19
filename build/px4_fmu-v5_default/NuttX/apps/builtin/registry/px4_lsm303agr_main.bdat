@@ -1,0 +1,1 @@
+{ "lsm303agr", SCHED_PRIORITY_DEFAULT, 1024, lsm303agr_main },

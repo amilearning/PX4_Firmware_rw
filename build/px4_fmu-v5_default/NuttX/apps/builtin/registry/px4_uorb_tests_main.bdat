@@ -1,0 +1,1 @@
+{ "uorb_tests", SCHED_PRIORITY_MAX, 2048, uorb_tests_main },

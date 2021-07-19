@@ -1,0 +1,1 @@
+{ "pwm_input", SCHED_PRIORITY_DEFAULT, 1024, pwm_input_main },

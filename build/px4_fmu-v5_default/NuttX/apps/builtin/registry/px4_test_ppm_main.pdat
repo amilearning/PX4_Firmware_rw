@@ -1,0 +1,1 @@
+int test_ppm_main(int argc, char *argv[]);

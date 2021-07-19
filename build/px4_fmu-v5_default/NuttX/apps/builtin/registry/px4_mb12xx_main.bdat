@@ -1,0 +1,1 @@
+{ "mb12xx", SCHED_PRIORITY_DEFAULT, 1024, mb12xx_main },

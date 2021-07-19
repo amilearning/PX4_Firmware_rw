@@ -1,0 +1,1 @@
+{ "rgbled_ncp5623c", SCHED_PRIORITY_DEFAULT, 1500, rgbled_ncp5623c_main },

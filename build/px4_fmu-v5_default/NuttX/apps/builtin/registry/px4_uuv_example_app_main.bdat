@@ -1,0 +1,1 @@
+{ "uuv_example_app", SCHED_PRIORITY_DEFAULT, 2000, uuv_example_app_main },

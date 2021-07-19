@@ -1,0 +1,1 @@
+{ "rgbled_pwm", SCHED_PRIORITY_DEFAULT, 1500, rgbled_pwm_main },

@@ -1,0 +1,1 @@
+{ "camera_capture", SCHED_PRIORITY_DEFAULT, 1024, camera_capture_main },

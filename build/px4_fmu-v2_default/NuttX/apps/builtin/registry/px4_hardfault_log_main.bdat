@@ -1,0 +1,1 @@
+{ "hardfault_log", SCHED_PRIORITY_DEFAULT, 2100, hardfault_log_main },

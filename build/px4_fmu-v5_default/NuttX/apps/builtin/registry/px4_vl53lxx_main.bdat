@@ -1,0 +1,1 @@
+{ "vl53lxx", SCHED_PRIORITY_DEFAULT, 1024, vl53lxx_main },

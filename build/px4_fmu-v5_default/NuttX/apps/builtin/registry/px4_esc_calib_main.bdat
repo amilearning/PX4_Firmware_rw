@@ -1,0 +1,1 @@
+{ "esc_calib", SCHED_PRIORITY_DEFAULT, 4096, esc_calib_main },

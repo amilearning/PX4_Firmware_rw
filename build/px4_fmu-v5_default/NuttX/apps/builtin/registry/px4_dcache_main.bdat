@@ -1,0 +1,1 @@
+{ "dcache", SCHED_PRIORITY_DEFAULT, 1024, dcache_main },

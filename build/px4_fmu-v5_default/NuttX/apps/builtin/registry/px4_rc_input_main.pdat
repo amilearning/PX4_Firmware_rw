@@ -1,0 +1,1 @@
+int rc_input_main(int argc, char *argv[]);

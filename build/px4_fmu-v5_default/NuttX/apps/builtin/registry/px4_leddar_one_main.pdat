@@ -1,0 +1,1 @@
+int leddar_one_main(int argc, char *argv[]);

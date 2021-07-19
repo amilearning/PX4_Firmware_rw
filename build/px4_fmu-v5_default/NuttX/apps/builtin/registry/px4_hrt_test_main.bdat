@@ -1,0 +1,1 @@
+{ "hrt_test", SCHED_PRIORITY_DEFAULT, 1024, hrt_test_main },

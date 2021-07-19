@@ -1,0 +1,1 @@
+{ "adis16497", SCHED_PRIORITY_DEFAULT, 1200, adis16497_main },

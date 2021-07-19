@@ -1,0 +1,1 @@
+{ "sensors", SCHED_PRIORITY_MAX-5, 1500, sensors_main },

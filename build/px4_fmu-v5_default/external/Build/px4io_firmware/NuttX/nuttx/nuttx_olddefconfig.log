@@ -1,0 +1,4 @@
+LN: include/arch to arch/arm/include
+LN: arch/arm/src/board to ../nuttx-config/src
+LN: platform/board to /home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v5_default/external/Build/px4io_firmware/NuttX/apps/platform/dummy
+DEBUG: kconfiglib kconfig-conf wrapper, arguments: --olddefconfig Kconfig

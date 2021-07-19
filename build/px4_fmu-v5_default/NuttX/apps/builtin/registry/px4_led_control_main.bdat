@@ -1,0 +1,1 @@
+{ "led_control", SCHED_PRIORITY_DEFAULT, 2500, led_control_main },

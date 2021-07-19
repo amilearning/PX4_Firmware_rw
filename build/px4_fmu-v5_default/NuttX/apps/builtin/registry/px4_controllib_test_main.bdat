@@ -1,0 +1,1 @@
+{ "controllib_test", SCHED_PRIORITY_DEFAULT, 1024, controllib_test_main },

@@ -1,0 +1,1 @@
+{ "segway", SCHED_PRIORITY_DEFAULT, 1400, segway_main },

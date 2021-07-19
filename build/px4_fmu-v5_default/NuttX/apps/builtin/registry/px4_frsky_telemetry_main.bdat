@@ -1,0 +1,1 @@
+{ "frsky_telemetry", SCHED_PRIORITY_DEFAULT, 1500, frsky_telemetry_main },

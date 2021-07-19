@@ -1,0 +1,1 @@
+int commander_tests_main(int argc, char *argv[]);

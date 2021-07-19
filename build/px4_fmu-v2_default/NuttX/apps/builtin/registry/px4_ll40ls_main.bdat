@@ -1,0 +1,1 @@
+{ "ll40ls", SCHED_PRIORITY_DEFAULT, 1024, ll40ls_main },

@@ -1,0 +1,1 @@
+int l3gd20_main(int argc, char *argv[]);

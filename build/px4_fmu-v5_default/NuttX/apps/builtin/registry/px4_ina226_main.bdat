@@ -1,0 +1,1 @@
+{ "ina226", SCHED_PRIORITY_DEFAULT, 1024, ina226_main },

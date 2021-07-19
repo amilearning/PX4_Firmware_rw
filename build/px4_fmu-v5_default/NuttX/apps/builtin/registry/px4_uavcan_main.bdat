@@ -1,0 +1,1 @@
+{ "uavcan", SCHED_PRIORITY_DEFAULT, 3200, uavcan_main },

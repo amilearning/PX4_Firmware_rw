@@ -1,0 +1,1 @@
+int oreoled_main(int argc, char *argv[]);

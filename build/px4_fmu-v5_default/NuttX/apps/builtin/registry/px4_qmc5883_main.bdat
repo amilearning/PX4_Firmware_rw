@@ -1,0 +1,1 @@
+{ "qmc5883", SCHED_PRIORITY_DEFAULT, 1500, qmc5883_main },

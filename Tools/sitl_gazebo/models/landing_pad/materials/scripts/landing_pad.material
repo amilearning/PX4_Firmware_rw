@@ -1,0 +1,18 @@
+material vrc/landing_pad
+{
+	technique
+	{
+		pass
+		{
+			
+
+			texture_unit
+			{
+				texture landing_pad.png
+				filtering anistropic
+				max_anisotropy 1
+				scale 1 1
+			}
+		}
+	}
+}

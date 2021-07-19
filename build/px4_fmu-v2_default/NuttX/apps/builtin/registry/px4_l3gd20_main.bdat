@@ -1,0 +1,1 @@
+{ "l3gd20", SCHED_PRIORITY_DEFAULT, 1500, l3gd20_main },

@@ -1,0 +1,1 @@
+{ "fw_att_control", SCHED_PRIORITY_DEFAULT, 1024, fw_att_control_main },

@@ -1,0 +1,1 @@
+{ "fmu", SCHED_PRIORITY_DEFAULT, 1200, fmu_main },

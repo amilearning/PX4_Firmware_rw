@@ -1,0 +1,1 @@
+{ "dataman", SCHED_PRIORITY_DEFAULT, 1200, dataman_main },

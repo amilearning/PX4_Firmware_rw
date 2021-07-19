@@ -1,0 +1,1 @@
+{ "sdp3x_airspeed", SCHED_PRIORITY_DEFAULT, 1200, sdp3x_airspeed_main },

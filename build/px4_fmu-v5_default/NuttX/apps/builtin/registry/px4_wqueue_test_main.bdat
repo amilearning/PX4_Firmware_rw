@@ -1,0 +1,1 @@
+{ "wqueue_test", SCHED_PRIORITY_DEFAULT, 1024, wqueue_test_main },

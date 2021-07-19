@@ -1,0 +1,1 @@
+{ "local_position_estimator", SCHED_PRIORITY_DEFAULT, 5700, local_position_estimator_main },

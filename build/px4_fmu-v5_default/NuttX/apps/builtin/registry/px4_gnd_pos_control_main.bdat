@@ -1,0 +1,1 @@
+{ "gnd_pos_control", SCHED_PRIORITY_DEFAULT, 1024, gnd_pos_control_main },

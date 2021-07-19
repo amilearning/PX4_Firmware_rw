@@ -1,0 +1,1 @@
+{ "lis3mdl", SCHED_PRIORITY_DEFAULT, 1200, lis3mdl_main },

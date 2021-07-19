@@ -1,0 +1,1 @@
+{ "srf02", SCHED_PRIORITY_DEFAULT, 1024, srf02_main },

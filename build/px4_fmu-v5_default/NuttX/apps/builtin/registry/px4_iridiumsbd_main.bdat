@@ -1,0 +1,1 @@
+{ "iridiumsbd", SCHED_PRIORITY_DEFAULT, 1024, iridiumsbd_main },

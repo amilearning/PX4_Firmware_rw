@@ -1,0 +1,1 @@
+{ "mpu6000", SCHED_PRIORITY_DEFAULT, 1500, mpu6000_main },

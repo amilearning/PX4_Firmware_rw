@@ -1,0 +1,1 @@
+{ "ulanding_radar", SCHED_PRIORITY_DEFAULT, 1024, ulanding_radar_main },

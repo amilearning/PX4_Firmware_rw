@@ -1,0 +1,1 @@
+{ "bst", SCHED_PRIORITY_DEFAULT, 1200, bst_main },

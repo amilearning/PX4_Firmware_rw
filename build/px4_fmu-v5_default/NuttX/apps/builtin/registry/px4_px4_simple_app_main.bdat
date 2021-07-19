@@ -1,0 +1,1 @@
+{ "px4_simple_app", SCHED_PRIORITY_DEFAULT, 2000, px4_simple_app_main },

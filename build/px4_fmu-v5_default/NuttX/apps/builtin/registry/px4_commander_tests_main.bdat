@@ -1,0 +1,1 @@
+{ "commander_tests", SCHED_PRIORITY_DEFAULT, 1024, commander_tests_main },

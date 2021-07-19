@@ -1,0 +1,1 @@
+int rgbled_ncp5623c_main(int argc, char *argv[]);

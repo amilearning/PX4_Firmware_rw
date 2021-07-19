@@ -1,0 +1,1 @@
+int vtol_att_control_main(int argc, char *argv[]);

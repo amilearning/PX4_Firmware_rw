@@ -1,0 +1,1 @@
+int tone_alarm_main(int argc, char *argv[]);

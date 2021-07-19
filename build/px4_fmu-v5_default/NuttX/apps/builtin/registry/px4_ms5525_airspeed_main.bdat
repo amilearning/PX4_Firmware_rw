@@ -1,0 +1,1 @@
+{ "ms5525_airspeed", SCHED_PRIORITY_DEFAULT, 1200, ms5525_airspeed_main },

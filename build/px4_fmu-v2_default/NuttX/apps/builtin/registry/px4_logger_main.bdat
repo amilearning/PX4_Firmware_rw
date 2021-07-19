@@ -1,0 +1,1 @@
+{ "logger", SCHED_PRIORITY_MAX-30, 2200, logger_main },

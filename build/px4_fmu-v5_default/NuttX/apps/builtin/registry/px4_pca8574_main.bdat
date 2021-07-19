@@ -1,0 +1,1 @@
+{ "pca8574", SCHED_PRIORITY_DEFAULT, 1024, pca8574_main },

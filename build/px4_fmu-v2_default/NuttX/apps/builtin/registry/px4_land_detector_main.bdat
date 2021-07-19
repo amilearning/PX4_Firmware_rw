@@ -1,0 +1,1 @@
+{ "land_detector", SCHED_PRIORITY_DEFAULT, 1200, land_detector_main },

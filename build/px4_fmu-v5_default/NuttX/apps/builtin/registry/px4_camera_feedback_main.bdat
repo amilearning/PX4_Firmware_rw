@@ -1,0 +1,1 @@
+{ "camera_feedback", SCHED_PRIORITY_DEFAULT, 1024, camera_feedback_main },

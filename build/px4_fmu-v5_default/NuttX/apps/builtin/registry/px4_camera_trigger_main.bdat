@@ -1,0 +1,1 @@
+{ "camera_trigger", SCHED_PRIORITY_DEFAULT, 1200, camera_trigger_main },

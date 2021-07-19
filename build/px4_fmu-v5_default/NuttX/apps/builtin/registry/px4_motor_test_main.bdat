@@ -1,0 +1,1 @@
+{ "motor_test", SCHED_PRIORITY_DEFAULT, 4096, motor_test_main },

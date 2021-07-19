@@ -1,0 +1,1 @@
+int lsm303agr_main(int argc, char *argv[]);

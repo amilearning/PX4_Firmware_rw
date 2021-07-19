@@ -1,0 +1,1 @@
+{ "rover_steering_control", SCHED_PRIORITY_DEFAULT, 1200, rover_steering_control_main },

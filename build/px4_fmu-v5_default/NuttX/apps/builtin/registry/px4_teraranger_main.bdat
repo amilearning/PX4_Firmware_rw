@@ -1,0 +1,1 @@
+{ "teraranger", SCHED_PRIORITY_DEFAULT, 1200, teraranger_main },

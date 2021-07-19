@@ -1,0 +1,1 @@
+{ "bmm150", SCHED_PRIORITY_DEFAULT, 1200, bmm150_main },

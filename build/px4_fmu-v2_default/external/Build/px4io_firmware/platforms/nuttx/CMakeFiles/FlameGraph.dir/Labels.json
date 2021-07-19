@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/platforms/nuttx/CMakeFiles/FlameGraph"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/platforms/nuttx/CMakeFiles/FlameGraph.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/platforms/nuttx/CMakeFiles/FlameGraph-complete.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-install.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-mkdir.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-download.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-update.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-patch.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-configure.rule"
+		},
+		{
+			"file" : "/home/hojin/drone_ws/ethz_ws/ethzasl_fw_px4/build/px4_fmu-v2_default/external/Build/px4io_firmware/external/Stamp/FlameGraph/FlameGraph-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"FlameGraph"
+		],
+		"name" : "FlameGraph"
+	}
+}

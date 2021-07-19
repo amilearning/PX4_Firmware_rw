@@ -1,0 +1,1 @@
+int adis16497_main(int argc, char *argv[]);

@@ -1,0 +1,1 @@
+int hott_sensors_main(int argc, char *argv[]);

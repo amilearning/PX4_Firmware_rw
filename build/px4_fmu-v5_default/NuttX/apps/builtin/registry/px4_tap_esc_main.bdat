@@ -1,0 +1,1 @@
+{ "tap_esc", SCHED_PRIORITY_DEFAULT, 1024, tap_esc_main },
